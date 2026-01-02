@@ -1,1 +1,1 @@
-# Infrared-and-Visible-Image-Fusion-via-Iterative-Feature-Decomposition-and-Deep-Balanced-Fusion
+# Codes for Infrared and Visible Image Fusion via Iterative Feature Decomposition and Deep Balanced Fusion.
